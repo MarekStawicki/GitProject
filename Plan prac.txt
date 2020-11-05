@@ -1,0 +1,3 @@
+Plan prac
+1. Inicjalizacja projektu
+2. Specyfikacja wymagañ
