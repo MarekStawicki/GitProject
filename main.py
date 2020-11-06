@@ -1,6 +1,7 @@
-print('hello world')
-class Controller:
-	def __init__(self):
-		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")		print("Konstruktor")
->>>>>>>>>>>>>> test
-		
+public class Main {
+
+    public static void main(String[] args) {
+        String arg = "Hello World!";
+        System.out.println(arg);
+    }
+}
